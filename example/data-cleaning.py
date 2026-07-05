@@ -7,7 +7,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import MinMaxScaler
 
-df = pd.read_csv('../documents/Titanic-Dataset.csv')
+df = pd.read_csv('../data/Titanic-Dataset.csv')
 # df.info()
 # df.head()
 
